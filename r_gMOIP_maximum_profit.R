@@ -12,7 +12,7 @@
 install.packages("gMOIP")
 
 # R 套件安裝目錄
-libPaths()
+.libPaths()
 
 # 載入套件
 library(gMOIP)
