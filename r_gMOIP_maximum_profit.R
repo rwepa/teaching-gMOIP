@@ -25,7 +25,7 @@ library(gMOIP)
 #   D = 玻璃門的生產數量 
 #   W = 木框窗戶的生產數量
 # 目標函數（Objective Function）：
-#   利潤 (P) 最大化 P = 300D + 500W
+#   利潤 (Profit, P) 最大化 P = 300D + 500W
 # 受限於三間工廠產能時間限制條件：
 # D       <= 4
 #      2W <= 12
