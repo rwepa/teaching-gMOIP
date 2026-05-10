@@ -19,6 +19,8 @@ https://github.com/rwepa/teaching-gMOIP/blob/main/r_gMOIP_maximum_profit.R
 
 ![gMOIP_minimum_cost](https://github.com/rwepa/teaching-gMOIP/blob/main/imgs/r_gMOIP_tutorial_minimum_cost.png = 500x)
 
+<img src="https://github.com/rwepa/teaching-gMOIP/blob/main/imgs/r_gMOIP_tutorial_minimum_cost.png" width="500">
+
 + R程式碼: https://github.com/rwepa/teaching-gMOIP/blob/main/r_gMOIP_minimum_cost.R
 
 
