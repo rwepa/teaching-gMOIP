@@ -13,4 +13,6 @@ https://github.com/rwepa/teaching-gMOIP/blob/main/r_gMOIP_tutorial.pdf
 + gMOIP-Rcode
 https://github.com/rwepa/teaching-gMOIP/blob/main/r_gMOIP_maximum_profit.R
 
-# 最小化問題 gMOIP 套件
+# gMOIP套件最小化成本範例
+
++ 
