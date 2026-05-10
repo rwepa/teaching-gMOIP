@@ -20,7 +20,7 @@ library(gMOIP)
 
 # materials: https://github.com/rwepa/teaching-gMOIP/blob/main/r_gMOIP_tutorial.pdf
 
-# 問題:
+# 最大化問題:
 # 決策變數（Decision Variables）：
 #   D = 玻璃門的生產數量 
 #   W = 木框窗戶的生產數量
