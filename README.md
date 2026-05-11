@@ -24,3 +24,15 @@ https://github.com/rwepa/teaching-gMOIP/blob/main/r_gMOIP_maximum_profit.R
 + R輸出結果與講義第34頁結果相同:
 
 <img src="https://github.com/rwepa/teaching-gMOIP/blob/main/imgs/r_gMOIP_tutorial_minimum_cost_output.png" width="600">
+
+# R與免費線性規劃 gMOIP 套件-Part 2
+
++ 🌸YouTube：
+
+  🌸【謝謝訂閱、按讚、分享與開啟小鈴鐺💡】
+
++ gMOIP-Slide
+https://github.com/rwepa/teaching-gMOIP/blob/main/r_gMOIP_tutorial_part2.pdf
+
++ gMOIP-Rcode
+https://github.com/rwepa/teaching-gMOIP/blob/main/r_gMOIP_tutorial_part2_ggplot2.R
