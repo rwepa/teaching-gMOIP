@@ -27,7 +27,17 @@ https://github.com/rwepa/teaching-gMOIP/blob/main/r_gMOIP_maximum_profit.R
 
 # R與免費線性規劃 gMOIP 套件-Part 2
 
-+ 🌸YouTube：
++ 大綱:
+
+1.ggplot2 套件簡介
+
+2.匯出圖檔
+
+3.gMOIP + ggplot2 應用
+
+4.結論
+
++ 🌸YouTube：XXX
 
   🌸【謝謝訂閱、按讚、分享與開啟小鈴鐺💡】
 
