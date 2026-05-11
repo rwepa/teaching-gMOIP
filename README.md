@@ -3,6 +3,20 @@
 
 # R與免費線性規劃 gMOIP 套件-Part 1
 
++ 大綱:
+
+1.R 簡介與安裝
+
+2.Rtools 簡介與安裝
+
+3.RStudio 簡介與安裝
+
+4.gMOIP 套件簡介
+
+5.gMOIP 線性規劃應用
+
+6.結論
+
 + 🌸YouTube：https://youtu.be/lBZ01lPKMcA
 
   🌸【謝謝訂閱、按讚、分享與開啟小鈴鐺💡】
